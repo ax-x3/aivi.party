@@ -24,13 +24,6 @@
     ascent-override: 95%;
     descent-override: 30%;
 }
-@font-face {
-    font-family: "Splice";
-    src: url(/assets/fonts/splice-dm.otf) format("opentype");
-    size-adjust: 65%;
-    ascent-override: 140%;
-    descent-override: 20%;
-}
 :root {
     --text: #ddd;
     --d-text-b: #ccc;
